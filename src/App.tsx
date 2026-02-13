@@ -14,7 +14,6 @@ import RingSticker from "./assets/RingSticker.png";
 import StarSticker from "./assets/StarSticker.png";
 import TeddyBearSticker from "./assets/TeddyBearSticker.png";
 
-// Import sticker assets (Flowers OUTLINED)
 import Cosmo from "./assets/CosmoOUTLINED.png";
 import Daffodil from "./assets/DaffodilOUTLINED.png";
 import Daisy from "./assets/DaisyOUTLINED.png";
