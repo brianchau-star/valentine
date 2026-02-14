@@ -22,18 +22,18 @@ const LoveLetter: React.FC = () => {
         <div className="font-dancing text-base sm:text-lg text-valentine-text leading-relaxed space-y-4">
           <p>
             Nhân dịp Valentine, anh muốn làm một điều gì đó thật đặc biệt dành
-            tặng em, thế là anh đã tạo ra cái này hehe.
+            tặng em, thế là anh đã tạo ra cái này hehehehe.
           </p>
           <p>
             Anh chỉ muốn nói anh thương Ngọc Ánh rất nhiều. Chúc em có một ngày
-            Valentine vui vẻ và hy vọng em sẽ thích món quà "handmade" công nghệ
+            Valentine vui vẻ và hy vọng em sẽ thích món quà "handmade"
             này của anh.
           </p>
           <p>
             Cảm ơn em đã luôn đồng hành và ở bên anh. Anh biết nhiều lúc làm em
-            buồn, cho anh xin lỗi nhé. Anh không giỏi nói lời hoa mỹ, nhưng anh
+            buồn, cho anh xin lỗi nhaaa. Anh không giỏi nói lời hoa mỹ, nhưng anh
             muốn em biết rằng với anh, em là duy nhất và anh rất biết ơn vì có
-            em trong cuộc đời.
+            em trong cuộc đờiiiii.
           </p>
           <p className="text-right mt-6 text-valentine-primary">
             Yêu thương,
